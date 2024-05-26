@@ -32,6 +32,7 @@ struct ContentView: View {
                 if locationManager.isLoading {
                     LoadingView()
                 } else {
+                    
                     WelcomeView()
                         .environmentObject(locationManager)
                 }
