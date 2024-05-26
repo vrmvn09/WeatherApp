@@ -1,0 +1,43 @@
+{
+    "coord": {
+        "lon": 76.95,
+        "lat": 43.25
+    },
+    "weather": [
+        {
+            "id": 803,
+            "main": "Clouds",
+            "description": "broken clouds",
+            "icon": "04d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 8.95,
+        "feels_like": 7.25,
+        "temp_min": 8.95,
+        "temp_max": 8.95,
+        "pressure": 1027,
+        "humidity": 71
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 3,
+        "deg": 210
+    },
+    "clouds": {
+        "all": 75
+    },
+    "dt": 1716727716,
+    "sys": {
+        "type": 1,
+        "id": 8818,
+        "country": "KZ",
+        "sunrise": 1716679123,
+        "sunset": 1716733208
+    },
+    "timezone": 18000,
+    "id": 1526384,
+    "name": "Almaty",
+    "cod": 200
+}
